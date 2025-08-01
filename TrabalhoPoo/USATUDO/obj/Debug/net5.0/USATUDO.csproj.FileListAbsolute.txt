@@ -1,0 +1,69 @@
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.exe
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.deps.json
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.runtimeconfig.json
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.runtimeconfig.dev.json
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\bin\Debug\net5.0\BL.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\bin\Debug\net5.0\DL.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\bin\Debug\net5.0\TrabalhoPoo.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\bin\Debug\net5.0\BL.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\bin\Debug\net5.0\DL.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\bin\Debug\net5.0\TrabalhoPoo.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.csproj.AssemblyReference.cache
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.AssemblyInfoInputs.cache
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.AssemblyInfo.cs
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.csproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.csproj.CopyComplete
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\obj\Debug\net5.0\refint\USATUDO.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.genruntimeconfig.cache
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\USATUDO\obj\Debug\net5.0\ref\USATUDO.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.exe
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.deps.json
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.runtimeconfig.json
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.runtimeconfig.dev.json
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\BL.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\DL.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\TrabalhoPoo.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\BL.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\DL.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\TrabalhoPoo.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.csproj.AssemblyReference.cache
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.AssemblyInfoInputs.cache
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.AssemblyInfo.cs
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.csproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.csproj.CopyComplete
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\refint\USATUDO.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.genruntimeconfig.cache
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\ref\USATUDO.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.exe
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.deps.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.runtimeconfig.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.runtimeconfig.dev.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\USATUDO.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\BL.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\DL.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\TrabalhoPoo.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\BL.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\DL.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\bin\Debug\net5.0\TrabalhoPoo.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.csproj.CopyComplete
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\refint\USATUDO.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\USATUDO.genruntimeconfig.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\USATUDO\obj\Debug\net5.0\ref\USATUDO.dll

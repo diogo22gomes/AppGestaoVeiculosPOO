@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "BL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "BO": "1.0.0",
+          "DL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BL.dll": {}
+        }
+      },
+      "BO/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/BO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BO.dll": {}
+        }
+      },
+      "DL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "BO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BL/1.0.0": {
+      "type": "project",
+      "path": "../BL/BL.csproj",
+      "msbuildProject": "../BL/BL.csproj"
+    },
+    "BO/1.0.0": {
+      "type": "project",
+      "path": "../TrabalhoPoo/BO.csproj",
+      "msbuildProject": "../TrabalhoPoo/BO.csproj"
+    },
+    "DL/1.0.0": {
+      "type": "project",
+      "path": "../DL/DL.csproj",
+      "msbuildProject": "../DL/DL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "BL >= 1.0.0",
+      "BO >= 1.0.0",
+      "DL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\diogo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\USATUDO\\USATUDO.csproj",
+      "projectName": "USATUDO",
+      "projectPath": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\USATUDO\\USATUDO.csproj",
+      "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\USATUDO\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\BL\\BL.csproj": {
+              "projectPath": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\BL\\BL.csproj"
+            },
+            "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\DL\\DL.csproj": {
+              "projectPath": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\DL\\DL.csproj"
+            },
+            "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\TrabalhoPoo\\BO.csproj": {
+              "projectPath": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\TrabalhoPoo\\BO.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

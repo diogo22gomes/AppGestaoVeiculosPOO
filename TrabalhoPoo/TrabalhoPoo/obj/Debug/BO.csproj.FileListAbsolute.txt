@@ -1,0 +1,18 @@
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\TrabalhoPoo\bin\Debug\TrabalhoPoo.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\TrabalhoPoo\bin\Debug\TrabalhoPoo.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\TrabalhoPoo\obj\Debug\BO.csproj.AssemblyReference.cache
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\TrabalhoPoo\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\TrabalhoPoo\obj\Debug\TrabalhoPoo.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\TrabalhoPoo\obj\Debug\TrabalhoPoo.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\TrabalhoPoo\bin\Debug\TrabalhoPoo.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\TrabalhoPoo\bin\Debug\TrabalhoPoo.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\TrabalhoPoo\obj\Debug\BO.csproj.AssemblyReference.cache
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\TrabalhoPoo\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\TrabalhoPoo\obj\Debug\TrabalhoPoo.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\TrabalhoPoo\obj\Debug\TrabalhoPoo.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\TrabalhoPoo\bin\Debug\TrabalhoPoo.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\TrabalhoPoo\bin\Debug\TrabalhoPoo.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\TrabalhoPoo\obj\Debug\BO.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\TrabalhoPoo\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\TrabalhoPoo\obj\Debug\TrabalhoPoo.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\TrabalhoPoo\obj\Debug\TrabalhoPoo.pdb

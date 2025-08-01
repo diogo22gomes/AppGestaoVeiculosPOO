@@ -1,0 +1,27 @@
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\DL\bin\Debug\DL.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\DL\bin\Debug\DL.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\DL\bin\Debug\TrabalhoPoo.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\DL\bin\Debug\TrabalhoPoo.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\DL\obj\Debug\DL.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_2389\TrabalhoPoo\DL\obj\Debug\DL.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\DL\obj\Debug\DL.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\DL\obj\Debug\DL.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\DL\bin\Debug\DL.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\DL\bin\Debug\DL.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\DL\bin\Debug\TrabalhoPoo.dll
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\DL\bin\Debug\TrabalhoPoo.pdb
+C:\Users\diogo\source\repos\TrabalhoPOO_23893\TrabalhoPoo\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\DL\bin\Debug\DL.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\DL\bin\Debug\DL.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\DL\bin\Debug\TrabalhoPoo.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\DL\bin\Debug\TrabalhoPoo.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\DL\obj\Debug\DL.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\poo2fase concl\TrabalhoPOO_23893\TrabalhoPoo\DL\obj\Debug\DL.pdb

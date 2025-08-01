@@ -1,0 +1,129 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\USATUDO\\USATUDO.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\BL\\BL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\BL\\BL.csproj",
+        "projectName": "BL",
+        "projectPath": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\BL\\BL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\DL\\DL.csproj": {
+                "projectPath": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\DL\\DL.csproj"
+              },
+              "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\TrabalhoPoo\\BO.csproj": {
+                "projectPath": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\TrabalhoPoo\\BO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\DL\\DL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\DL\\DL.csproj",
+        "projectName": "DL",
+        "projectPath": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\DL\\DL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\TrabalhoPoo\\BO.csproj": {
+                "projectPath": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\TrabalhoPoo\\BO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\TrabalhoPoo\\BO.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\TrabalhoPoo\\BO.csproj",
+        "projectName": "BO",
+        "projectPath": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\TrabalhoPoo\\BO.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\USATUDO\\USATUDO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\USATUDO\\USATUDO.csproj",
+        "projectName": "USATUDO",
+        "projectPath": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\USATUDO\\USATUDO.csproj",
+        "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\USATUDO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\BL\\BL.csproj": {
+                "projectPath": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\BL\\BL.csproj"
+              },
+              "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\DL\\DL.csproj": {
+                "projectPath": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\DL\\DL.csproj"
+              },
+              "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\TrabalhoPoo\\BO.csproj": {
+                "projectPath": "C:\\Users\\diogo\\source\\repos\\TrabalhoPOO_23893\\TrabalhoPoo\\TrabalhoPoo\\BO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
